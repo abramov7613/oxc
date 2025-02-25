@@ -33,5 +33,6 @@
 
 # other
 build/
+extern/
 *.log
 temp.cpp
